@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Omar Abdelrahman (Omar Abdo)</h1>
 
-<h3 align="center">📡 Communication Engineering Student | 🏆 2x ACPC Finalist | 💻 5000+ CP Problems Solved</h3> <h3 align="center">👨‍🏫 ACM ICPC Mentor | .NET Backend Developer | Passionate about Algorithms & Competitive Programming</h3><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F90D&center=true&vCenter=true&width=435&lines=Hello+World!;Backend+Developer;Competitive+Programmer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" /> </p>
+<h3 align="center">📡 Communication Engineering Student | 🏆 2x ACPC Finalist | 💻 5000+ CP Problems Solved</h3> <h3 align="center">👨‍🏫 ACM ICPC Coach | .NET Backend Developer | Passionate about Algorithms & Competitive Programming</h3><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F90D&center=true&vCenter=true&width=435&lines=Hello+World!;Backend+Developer;Competitive+Programmer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" /> </p>
 
 
 # ✨ <strong>About Me</strong> ✨
