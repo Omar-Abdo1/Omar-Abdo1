@@ -15,7 +15,7 @@
 
 🏆 Two-time ACPC (Arab Collegiate Programming Contest) Finalist
 
-🔥 Solved 5000+ competitive programming problems across multiple platforms
+🔥 Solved 3500+ competitive programming problems across multiple platforms
 
 👨‍🏫 Technical Head & Mentor for SVU ICPC training teams
 
