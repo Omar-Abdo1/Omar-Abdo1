@@ -56,6 +56,7 @@
     <a href="https://vjudge.net/user/OmarAbdo" target="_blank">
  <img src="https://img.shields.io/badge/Vjudge-5B4638?style=for-the-badge&logo=Vjudge&logoColor=white" alt="Vjudge"/>
 </a>
+    <a href="https://www.codechef.com/users/omarabdo10" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/> </a>
     <a href="https://atcoder.jp/users/S4dow" target="_blank"> <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/> </a> </p>
    
 
