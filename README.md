@@ -52,7 +52,7 @@
 
 ## ⚔️ Competitive Programming Profiles
    
-   <p align="center"> <a href="https://codeforces.com/profile/_OmarAbdo" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/> </a> <a href="https://leetcode.com/u/omargamer10a/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/> </a> <a href="YOUR_CODECHEF_LINK" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/> </a> <a href="YOUR_ATCODER_LINK" target="_blank"> <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/> </a> </p>
+   <p align="center"> <a href="https://codeforces.com/profile/_OmarAbdo" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/> </a> <a href="https://leetcode.com/u/omargamer10a/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/> </a> <a href="YOUR_CODECHEF_LINK" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/> </a> <a href="https://atcoder.jp/users/S4dow" target="_blank"> <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder"/> </a> </p>
    
 
 </p>
